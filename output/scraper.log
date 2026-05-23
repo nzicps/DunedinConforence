@@ -258,3 +258,48 @@
 2026-03-14 16:43:52 [INFO]    Records saved   : 46
 2026-03-14 16:43:52 [INFO]    Failed URLs     : 0
 2026-03-14 16:43:52 [INFO]    Searches done   : 0 page loads
+2026-05-20 16:49:40 [INFO] =================================================================
+2026-05-20 16:49:40 [INFO]   LinkedIn Scraper v3.0 — Mode: PEOPLE
+2026-05-20 16:49:40 [INFO]   Location   : United States
+2026-05-20 16:49:40 [INFO] =================================================================
+2026-05-20 16:49:40 [INFO] 📂 Resumed progress: 46 existing records, 1 companies done
+2026-05-20 16:49:40 [INFO] 🚀 Launching stealth browser...
+2026-05-20 16:49:42 [INFO] 🕵️  Spoofing UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 1...
+2026-05-20 16:49:43 [INFO] ✅ Browser launched successfully.
+2026-05-20 16:49:43 [INFO] 🔐 Attempting LinkedIn login...
+2026-05-20 16:50:07 [INFO]    Post-login URL: https://www.linkedin.com/checkpoint/challenge/AgFP1hML2vcqDwAAAZ5DuBs0hxZzRnCDkt1BKC7pesGCkreGsEC-Cm0tac39aSTOOoyICQQHq9lfXXEJDJP4RSQQyQhIBQ?ut=3N9PYAvh_1vcg1
+2026-05-20 16:50:07 [WARNING] ⚠️  Verification required! Complete it in the browser window.
+2026-05-20 16:50:07 [WARNING]     You have 60 seconds...
+2026-05-20 16:51:07 [ERROR] ❌ Login failed. URL: https://www.linkedin.com/checkpoint/challenge/AgFP1hML2vcqDwAAAZ5DuBs0hxZzRnCDkt1BKC7pesGCkreGsEC-Cm0tac39aSTOOoyICQQHq9lfXXEJDJP4RSQQyQhIBQ?ut=3N9PYAvh_1vcg1
+2026-05-20 16:51:07 [ERROR]    Double-check LINKEDIN_EMAIL and LINKEDIN_PASSWORD in config.py
+2026-05-20 16:51:07 [ERROR] ❌ Login failed. Exiting.
+2026-05-20 16:51:07 [INFO] ✅ Excel file saved: output/linkedin_results.xlsx
+2026-05-20 16:51:07 [INFO] 
+🎉 Exported 46 records → output/linkedin_results.xlsx
+2026-05-20 16:51:07 [INFO] 
+📊 Final Summary:
+2026-05-20 16:51:07 [INFO]    Records saved   : 46
+2026-05-20 16:51:07 [INFO]    Failed URLs     : 0
+2026-05-20 16:51:07 [INFO]    Searches done   : 0 page loads
+2026-05-23 09:46:16 [INFO] =================================================================
+2026-05-23 09:46:16 [INFO]   LinkedIn Scraper v3.0 — Mode: PEOPLE
+2026-05-23 09:46:16 [INFO]   Location   : United States
+2026-05-23 09:46:16 [INFO] =================================================================
+2026-05-23 09:46:16 [INFO] 📂 Resumed progress: 46 existing records, 1 companies done
+2026-05-23 09:46:16 [INFO] 🚀 Launching stealth browser...
+2026-05-23 09:46:21 [INFO] 🕵️  Spoofing UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64...
+2026-05-23 09:46:22 [INFO] ✅ Browser launched successfully.
+2026-05-23 09:46:22 [INFO] 🔐 Attempting LinkedIn login...
+2026-05-23 09:46:33 [ERROR] ❌ Login error: ElementHandle.type: Target page, context or browser has been closed
+Call log:
+  - elementHandle.type("v")
+
+2026-05-23 09:46:33 [ERROR] ❌ Login failed. Exiting.
+2026-05-23 09:46:34 [INFO] ✅ Excel file saved: output/linkedin_results.xlsx
+2026-05-23 09:46:34 [INFO] 
+🎉 Exported 46 records → output/linkedin_results.xlsx
+2026-05-23 09:46:35 [INFO] 
+📊 Final Summary:
+2026-05-23 09:46:35 [INFO]    Records saved   : 46
+2026-05-23 09:46:35 [INFO]    Failed URLs     : 0
+2026-05-23 09:46:35 [INFO]    Searches done   : 0 page loads
